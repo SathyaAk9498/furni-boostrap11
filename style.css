@@ -1,0 +1,408 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    border: 2px solid red;
+}
+.rose{
+    background-color: pink;
+    height: 650px;
+    margin-bottom: 5%;
+}
+.letter{
+    /* border: 1px solid red; */
+}
+.box{
+    width: 55%;
+    height: 290px;
+    margin-left: 22%;
+}
+.box p{
+    font-size: 49px;
+    color: rgb(160, 5, 5);
+    font-weight: 900;
+    margin-left: 29%;
+}
+.para{
+    width: 50%;
+    justify-content: center;
+    color: rgb(42, 40, 37);
+    /* border: 1px solid red; */
+
+    margin-left: 39%;
+    margin-top: 5%;
+    font-size: 23px;
+    margin-bottom: 5%;
+}
+.btns a{
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 32px;
+    color: black;
+    border: 3px solid red;
+    margin-left: 22%;
+    padding: 2px;
+}
+.btns a:hover{
+    background-color: rgb(143, 8, 8);
+    color: white;
+}
+.btns{
+margin-left: 30%;
+font-size: 29px;
+width: 33%;
+}
+.sofa{
+    /* border: 5px solid red; */
+    height: 390px;
+}
+.sofa img{
+    width: 100%;
+
+}
+.abpara p{
+    font-size: 19px;
+    margin-bottom: 3%;
+}
+.re a{
+    text-decoration: none;
+    font-size: 33px;
+    padding: 1%;
+    color: black;
+    border: 1px solid red;
+}
+.re a:hover{
+    background-color: rgb(174, 7, 7);
+    color: white;
+}
+/*  */
+/*  */
+/*  */
+.chair{
+    /* border: 1px solid red; */
+}
+.ar{
+    margin-left: 15%;
+}
+.ar1{
+    margin-left: 30%;
+}
+.cha{
+    margin-top: -16%;
+}
+.abpara p{
+    font-size: 45px;
+    font-weight: 500;   
+}
+.lo p{
+    font-size: 22px;
+    color: black;
+    /* border: 1px solid red; */
+    width: 89%;
+}
+.work{
+    font-size: 29px;
+    color: black;
+    margin-bottom: 2%;
+}
+.are{
+    font-size: 22px;
+    text-transform: capitalize;
+    color: rgb(73, 70, 70);
+    margin-bottom: 2%;
+}
+/*  */
+/*  */
+/*  */
+.box1{
+    border: 1px solid red;
+    height: 540px;
+}
+.box1 h3{
+    margin-bottom: 22%;
+}
+.chairpic{
+    /* border: 1px solid red; */
+    height: 290px;
+    margin-bottom: 5%;
+}
+.chairpic2 img{
+    margin-left: 9%;
+    margin-top: 9%;
+}
+.chairpic2{
+    /* border: 1px solid red; */
+    height: 290px;
+    margin-bottom: 5%;
+}
+.chairpic1 img{
+    margin-bottom: 12%;
+    margin-left: 29%;
+    }
+.chairpic img{
+margin-left: 10%;
+}
+.price{
+    font-size: 29px;
+    margin-bottom: 5%;
+}
+.buy a{
+    text-decoration: none;
+    font-size: 22px;
+    color: rgb(220, 213, 213);
+    background-color: rgb(194, 7, 7);
+    border: 1px solid rgb(203, 7, 7);
+    padding: 9px;
+}
+.buy a:hover{
+    background-color: rgb(103, 74, 74);
+    color: white;
+}
+.more a{
+    text-decoration: none;
+    font-size: 29px;
+    color: rgb(57, 53, 53);
+    border: 1px solid rgb(203, 7, 7);
+    padding: 5px;
+}
+.more{
+    margin-bottom: 5%;
+}
+.box1{
+    margin-bottom: 5%;
+}
+/*  */
+/*  */
+/*  */
+#SHOP{
+    background-color: pink;
+}
+.so img{
+    margin-left: 11%;
+    margin-top: 5%;
+}
+.sub{
+    /* border: 1px solid red; */
+    height: 200px;
+    margin-top: 9%;
+}
+.subscribe{
+    font-size: 35px;
+    font-weight: 500;
+    color: rgb(205, 7, 7);
+    text-transform: capitalize;
+    margin-bottom: 3%;
+    margin-left: 5%;
+}
+.labels{
+    background-color: pink;
+    font-size: 25px;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+.snow a{
+    text-decoration: none;
+    font-size: 29px;
+    margin-left: 15%;
+    background-color: rgb(194, 6, 6);
+    color: white;
+}
+.snow a:hover{
+    background-color: rgb(190, 9, 9);
+    color: white;
+}
+.us{
+    font-size: 33px;
+    color: black;
+    font-weight: 600;
+}
+.for{
+    font-size: 33px;
+}
+.one{
+    padding: 15px;
+    border: 1px solid black;
+}
+.on{
+    padding: 5px;
+}
+footer{
+    width: 100%;
+    height: 390px;
+    background-color: black;
+}
+.location{
+    margin-top: 9%;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 15%;
+}
+.two{
+    width:100%;
+    height: 410px;
+    border: 1px solid red;
+}
+.uss{
+    color: white;
+    font-size: 22px;
+    margin-bottom: 5%;
+}
+.he a{
+text-decoration: none;
+display: flex;
+margin-bottom: 5%;
+font-size: 19px;
+color: white;
+}
+.pp p{
+    font-size: 19px;
+}
+
+.icons i{
+    margin: 5px;
+    background-color: rgb(49, 48, 48);
+    border-radius: 55%;
+    border: 12px solid rgb(49, 48, 48);
+}
+.icons i:hover{
+    border: 12px solid red;
+}
+.parass p{
+    color: white;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:600px){
+    .rose{
+        height: 800px;
+        margin-bottom: 5%;
+    }
+    .btns{
+        width: 82%;
+        margin-bottom: 5%;
+        margin-left:20%;
+    }
+    .para{
+    width: 60%;
+    }
+    .para p{
+        font-size: 19px;
+        height: 195px;
+        margin-bottom: 5%;
+        /* border: 1px solid red; */
+    }
+
+    .sofa{
+        height: 220px;
+    }
+    .sofa img{
+        width: 95%;
+    }
+    /*  */
+    /*  */
+    .ar1{
+        margin-left:45%;
+    }
+    .abpara p{
+        text-align: center;
+        font-size:55px;
+    }
+    .lo p{
+        justify-content: center;
+        width: 100%;
+        align-items: center;
+        text-align: center;
+        font-size: 22px;
+        border: 1px solid red;
+    }
+    .re{
+        text-align: center;
+    }
+    .box1{
+        height: 550px;
+    }
+    .chairpic1 img{
+        margin-bottom: 5%;
+    }
+    .chairpic2 img{
+        margin-top: 9%;
+    }
+    .chairpic img{
+        margin-bottom: 2%;
+    }
+    .box1 h3{
+        margin-bottom: 2%;
+    }
+    /*  */
+    /*  */
+    /*  */
+    .so img{
+        width: 90%;
+    }
+    .subscribe{
+        /* border: 1px solid red; */
+        font-size: 22px;
+        text-align: center;
+    }
+    .labels{
+        text-align: center;
+    }
+    .snow a{
+        text-align: center;
+    }
+    footer{
+        height: 900px;
+        background-color: black;
+    }
+    .location{
+        font-size: 20px;
+        margin-top: 4%;
+    }
+    .for{
+        font-size: 22px;
+        padding: 11px;
+        /* border: 1px solid red; */
+
+    }
+    .on{
+        padding: 11px;
+        border: 1px solid black;
+        width: 310px;
+    }
+    .us{
+        text-align: center;
+    }
+    .uss{
+        text-align: center;
+    }
+    .parass{
+        text-align: center;
+        font-size: 19px;
+    }
+    .one{
+        width: 310px;
+    }
+  .chairpic img{
+width: 85%;
+  }  
+
+}
+    
+}
